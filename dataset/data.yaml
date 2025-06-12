@@ -1,0 +1,14 @@
+path: /Users/connorpierce/PyCharmMiscProject/dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 15
+names: ['Ball', 'Chromesoft_x_ls', 'Golf-ball', 'Prov1', 'Prov1x', 'TARGET', 'Tp5', 'Tp5x', 'ball', 'balle blanche', 'balle jaune', 'blueBall', 'golf ball', 'golf', 'golfball']
+
+roboflow:
+  workspace: mrinmoy-bhadra-lojma
+  project: golfballdetector
+  version: 10
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mrinmoy-bhadra-lojma/golfballdetector/dataset/10
